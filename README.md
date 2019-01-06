@@ -1,1 +1,1 @@
-# Royale-Gamers
+worker: node bot.js
